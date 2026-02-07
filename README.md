@@ -37,7 +37,7 @@ made by zixcore on discord!
 
 [STRAWPAGE](https://rdylamoree.straw.page/)
 
-[ATABOOK](https://rdy-lamoree.atabook.org/)
+[ATABOOK](https://tennaville.atabook.org/)
 
 ![div](https://i.imgur.com/Z1re8wS.png)
 
