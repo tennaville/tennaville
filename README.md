@@ -58,6 +58,6 @@ made by zixcore on discord!
 </tr>
 </table>
 
-[RENTRY](https://rdy-lamoree.atabook.org/)
+[RENTRY](https://rentry.co/tennaviile)
 
 ![div](https://i.imgur.com/jGHAnch.png)
