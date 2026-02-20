@@ -24,7 +24,7 @@ made by zixcore on discord!
   <tr>
     <th>
       $\color{#cf2163}{\textsf{About Me!! -}}$ <br>
-      $\color{#ebd4ff}{\textsf{Tenna/Rody}}$ <br>
+      $\color{#ebd4ff}{\textsf{Tenna/Strobe}}$ <br>
       $\color{#cf2163}{\textsf{18+ Trans Man}}$ <br>
       $\color{#ebd4ff}{\textsf{It/He}}$ <br>
       $\color{#cf2163}{\textsf{C+H Always Allowed}}$ <br>
