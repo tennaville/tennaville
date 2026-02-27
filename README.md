@@ -35,7 +35,7 @@ made by zixcore on discord!
 </tr>
 </table>
 
-[STRAWPAGE](https://rdylamoree.straw.page/)
+[STRAWPAGE](https://tenna-ville.straw.page)
 
 [ATABOOK](https://tennaville.atabook.org/)
 
