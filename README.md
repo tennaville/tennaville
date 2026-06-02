@@ -28,7 +28,7 @@ made by zixcore on discord!
       $\color{#cf2163}{\textsf{18+ Trans Man}}$ <br>
       $\color{#ebd4ff}{\textsf{It/He}}$ <br>
       $\color{#cf2163}{\textsf{C+H Always Allowed}}$ <br>
-      $\color{#ebd4ff}{\textsf{Platonically Taken: 12/31/25}}$ <br>
+      $\color{#ebd4ff}{\textsf{Romantically Taken: 6/01/26}}$ <br>
       $\color{#cf2163}{\textsf{Check Out My Strawpage And Atabook Below!}}$ <br>
 </th>
 </tr>
