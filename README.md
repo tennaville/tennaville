@@ -51,7 +51,7 @@ made by zixcore on discord!
       $\color{#ebd4ff}{\textsf{Updating Soon-ish!!}}$ <br>
       $\color{#cf2163}{\textsf{If I remember at least}}$ <br>
       $\color{#ebd4ff}{\textsf{So Like keep an eye out?}}$ <br>
-      $\color{#cf2163}{\textsf{IDK Thanks for reading this if u do}}$ <br>
+      $\color{#cf2163}{\textsf{IDK Thanks 4 reading this if u do}}$ <br>
       $\color{#ebd4ff}{\textsf{Take care :3 Thanks 4 stopping by!}}$ <br>
 </th>
 </tr>
