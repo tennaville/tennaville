@@ -46,17 +46,15 @@ made by zixcore on discord!
   <tr>
     <th>
       $\color{#cf2163}{\textsf{ }}$ <br>
-      $\color{#ebd4ff}{\textsf{“Hit the lights, commence the show}}$ <br>
-      $\color{#cf2163}{\textsf{We've got our stars and they can't go!}}$ <br>
-      $\color{#ebd4ff}{\textsf{All the games, just all the rounds}}$ <br>
-      $\color{#cf2163}{\textsf{I'll show you I can make you stick around...}}$ <br>
-      $\color{#ebd4ff}{\textsf{You better love your TV}}$ <br>
-      $\color{#cf2163}{\textsf{And stay glued to your screen!”}}$ <br>
-      $\color{#ebd4ff}{\textsf{ }}$ <br>
+      $\color{#ebd4ff}{\textsf{This}}$ <br>
+      $\color{#cf2163}{\textsf{is}}$ <br>
+      $\color{#ebd4ff}{\textsf{being}}$ <br>
+      $\color{#cf2163}{\textsf{remaded}}$ <br>
+      $\color{#ebd4ff}{\textsf{Updating}}$ <br>
+      $\color{#cf2163}{\textsf{Soon!}}$ <br>
+      $\color{#ebd4ff}{\textsf{:^D}}$ <br>
 </th>
 </tr>
 </table>
-
-[RENTRY](https://rentry.co/tennaviile)
 
 ![div](https://i.imgur.com/jGHAnch.png)
