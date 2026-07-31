@@ -45,14 +45,14 @@ made by zixcore on discord!
 <table>
   <tr>
     <th>
-      $\color{#cf2163}{\textsf{ }}$ <br>
-      $\color{#ebd4ff}{\textsf{This}}$ <br>
-      $\color{#cf2163}{\textsf{is}}$ <br>
-      $\color{#ebd4ff}{\textsf{being}}$ <br>
-      $\color{#cf2163}{\textsf{remaded}}$ <br>
-      $\color{#ebd4ff}{\textsf{Updating}}$ <br>
-      $\color{#cf2163}{\textsf{Soon!}}$ <br>
-      $\color{#ebd4ff}{\textsf{:D}}$ <br>
+      $\color{#cf2163}{\textsf{HI hello!}}$ <br>
+      $\color{#ebd4ff}{\textsf{This is being}}$ <br>
+      $\color{#cf2163}{\textsf{Remade Soon!}}$ <br>
+      $\color{#ebd4ff}{\textsf{Updating Soon-ish!!}}$ <br>
+      $\color{#cf2163}{\textsf{If I remember at least}}$ <br>
+      $\color{#ebd4ff}{\textsf{So Like keep an eye out?}}$ <br>
+      $\color{#cf2163}{\textsf{IDK Thanks for reading this if u do}}$ <br>
+      $\color{#ebd4ff}{\textsf{Take care :3 Thanks 4 stopping by!}}$ <br>
 </th>
 </tr>
 </table>
