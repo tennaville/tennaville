@@ -52,7 +52,7 @@ made by zixcore on discord!
       $\color{#cf2163}{\textsf{remaded}}$ <br>
       $\color{#ebd4ff}{\textsf{Updating}}$ <br>
       $\color{#cf2163}{\textsf{Soon!}}$ <br>
-      $\color{#ebd4ff}{\textsf{:^D}}$ <br>
+      $\color{#ebd4ff}{\textsf{:D}}$ <br>
 </th>
 </tr>
 </table>
